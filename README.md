@@ -101,11 +101,26 @@ graph TD;
         "type": "Polygon",
         "coordinates": [
           [
-            [-84.4500, 33.8000],  // Top-left corner
-            [-84.3500, 33.8000],  // Top-right corner
-            [-84.3500, 33.7000],  // Bottom-right corner
-            [-84.4500, 33.7000],  // Bottom-left corner
-            [-84.4500, 33.8000]   // Closing the polygon by going back to the start
+            [
+              -84.45,
+              33.8
+            ],
+            [
+              -84.35,
+              33.8
+            ],
+            [
+              -84.35,
+              33.7
+            ],
+            [
+              -84.45,
+              33.7
+            ],
+            [
+              -84.45,
+              33.8
+            ]
           ]
         ]
       }
