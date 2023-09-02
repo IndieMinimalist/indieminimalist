@@ -26,7 +26,7 @@ jobs:
           plugin_languages_details: bytes-size, percentage
 
           plugin_calendar: yes
-          plugin_calendar_limit: 11
+          plugin_calendar_limit: 5
 
           plugin_habits: yes
           plugin_habits_facts: yes
