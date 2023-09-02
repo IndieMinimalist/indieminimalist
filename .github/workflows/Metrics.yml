@@ -25,11 +25,6 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
 
-          plugin_achievements: yes
-
-          plugin_achievements_threshold: X
-          plugin_achievements_display: detailed
-
           plugin_calendar: yes
           plugin_calendar_limit: 11
 
@@ -37,18 +32,8 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
-          plugin_licenses: yes
-          plugin_licenses_setup: npm ci
-
-          plugin_skyline: yes
-          plugin_skyline_year: 2022
-          plugin_skyline_frames: 120
-          plugin_skyline_quality: 1
-
           plugin_stargazers: yes
           plugin_stargazers_charts_type: chartist
-
-          plugin_support: yes
 
           plugin_topics: yes
           plugin_topics_limit: 0
