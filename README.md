@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-    <a href="https://www.rust-lang.org/"><img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" align="right" height="48" width="48" ></a>
-    <a href="https://www.linux.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" align="right" height="48" width="48" ></a>
+    <a href="https://www.rust-lang.org/"><img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" height="48" width="48" ></a>
+    <a href="https://www.linux.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" height="48" width="48" ></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hey+I'm+IndieMinimalist.+👋;I'm+always+in+the+search+for+Flow+and+Wonder.;OSS,+and+Rust+are+my+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hey+I'm+IndieMinimalist.+👋;I'm+always+in+the+search+for+Flow+and+Wonder.;OSS+and+Rust+are+my+🚀)](https://git.io/typing-svg)
 
 ### 📈 GitHub Activity:
 
