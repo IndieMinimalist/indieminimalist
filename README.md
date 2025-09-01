@@ -12,6 +12,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hey+I'm+IndieMinimalist.+👋;I'm+always+in+the+search+for+Flow+and+Wonder.;OSS+and+Rust+are+my+🚀)](https://git.io/typing-svg)
 
+**📫 Reach me:** <a href="mailto:david@indieminimalist.com" target="blank"><img align="center" src="./assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+
 ### 📈 GitHub Activity:
 
 ![IndieMinimalist's github activity graph](https://raw.githubusercontent.com/Indieminimalist/indieminimalist/output/github-contribution-grid-snake.svg)
@@ -19,12 +21,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indieminimalist"></img>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
-**📫 Reach me:**
-
-<p align="left">
-<a href="mailto:david@indieminimalist.com" target="blank"><img align="center" src="./assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-</p>
 
 <div align="center">
 <summary>GitHub Trophies</summary>
